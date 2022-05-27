@@ -10,7 +10,7 @@ class Date{
     }
 
     public String toString() {
-        return (day +" "+month+" "+year);
+        return ("dd "+day +"mm "+month+"yy "+year);
     }
 }
 public class Program {
